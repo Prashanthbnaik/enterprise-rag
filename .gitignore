@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+app/data/
+faiss_index.bin
+documents.pkl
+processed_chunks.pkl
