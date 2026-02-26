@@ -267,5 +267,4 @@ RetrievalStack was built to demonstrate:
 - Production deployment practices  
 - Cloud-native API architecture  
 
-This is not a notebook prototype.  
 It is a deployed, persistent AI backend engineered using production principles.
